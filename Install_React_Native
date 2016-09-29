@@ -1,0 +1,7 @@
+#instructions for iOS:
+
+brew update
+brew install node
+brew install watchman
+sudo npm install -g react-native-cli
+export PATH="/usr/local/Cellar/node/6.7.0/libexec/npm/bin:$PATH"
